@@ -2,7 +2,20 @@
     "main": {
         "name": "Nadhifah Nur Shadrina",
         "description": "I am a frontend developer",
-        "github": "https://github.com/nadhifahnrs",
-        "project": "https://github.com/nadhifahnrs"
+        "image":"profile-pic.jpg",
+        "github": "https://github.com/nadhifahns",
+        "project": "https://github.com/nadhifahns",
+        "bio": "A graduate of Diploma III in Computer Engineering who is enthusiastic with a strong desire to learn and ready to face new challenges in the industrial world. Has experience in project work using React Native and Figma. Detail-oriented and committed to contributing both in a team and as an individual.",
+        "contactmessage":"Hello, here I am",
+        "email": "nadhifahns@gmail.com",
+        "phone": "+62-897-6335-883",
+        "address":{
+            "street":"Puri Cipageran Indah 1 Blok H3-79",
+            "city":"Cimahi",
+            "state":"West Java",
+            "zip": "40511"
+        },
+        "website": "https://github.com/nadhifahns",
+        "resumedownload":"https://github.com/nadhifahns"
     }
 }

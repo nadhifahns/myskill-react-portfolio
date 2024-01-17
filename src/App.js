@@ -2,6 +2,7 @@ import ReactGA from "react-ga";
 import { Component } from 'react';
 import $ from "jquery";
 import Header from './Components/Header';
+import About from "./Components/About";
 
 class App extends Component {
   constructor(props) {
@@ -40,6 +41,7 @@ class App extends Component {
     return(
       <div className='App'>
         <Header data={this.state.resumeData.main} />
+        <About data={this.state.resumeData.main}/>
       </div>
     )
   }
