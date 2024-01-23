@@ -1,7 +1,7 @@
 {
     "main": {
         "name": "Nadhifah Nur Shadrina",
-        "description": "I am a frontend developer",
+        "description": "A graduate of Informatics Engineering who is enthusiastic about seeking career opportunities and has the goal of continuous learning and growth in the industry.",
         "image":"profile-pic.jpg",
         "github": "https://github.com/nadhifahns",
         "project": "https://github.com/nadhifahns",
@@ -17,5 +17,49 @@
         },
         "website": "https://github.com/nadhifahns",
         "resumedownload":"https://github.com/nadhifahns"
+    },
+    "resume": {
+        "education": [
+            {
+                "school": "Politeknik Negeri Bandung",
+                "degree": "Associate degree of Informatics Engineering",
+                "graduated": "August 2024",
+                "description": "Contributed to projects that honed my communication skills, collaborated with teams, and programming skills. Additionally, I became accustomed to creating technical documents such as Software Requirements Specifications (SRS) and functional testing."
+            }
+        ],
+        "work": [
+            {
+                "company": "PT Hirata Insan Mandiri",
+                "title": "Frontend Developer",
+                "years": "June 2022 - September 2022",
+                "description": "A mobile application named Dicuci Applicarion that offers laundry services to customer using React Native. Contribute as Front-End Developer responsible for slicing UI and API integration"
+            }
+        ],
+        "skills": [
+            {
+                "name": "React Native",
+                "level": "65%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "60%"
+            },
+            {
+                "name": "HTML",
+                "level": "60%"
+            },
+            {
+                "name": "CSS",
+                "level": "50%"
+            },
+            {
+                "name": "Unit Testing",
+                "level": "70%"
+            },
+            {
+                "name": "RESTful API",
+                "level": "60%"
+            }
+        ]
     }
 }
