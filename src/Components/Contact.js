@@ -122,7 +122,7 @@ class Contact extends Component {
                 <ul id="twitter">
                   <li>
                     <span>
-                      - <br />
+                    Saya bahagia kemarin<br />
                       <a href="./">http://t.co/CGIrdxIlI3</a>
                     </span>
                     <b>
@@ -131,7 +131,7 @@ class Contact extends Component {
                   </li>
                   <li>
                     <span>
-                      -
+                    Semoga kamu baik-baik saja yaa
                       <br />
                       <a href="./">http://t.co/CGIrdxIlI3</a>
                     </span>

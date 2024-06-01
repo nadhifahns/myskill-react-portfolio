@@ -1,19 +1,19 @@
 {
     "main": {
         "name": "Nadhifah Nur Shadrina",
-        "description": "A graduate of Informatics Engineering who is enthusiastic about seeking career opportunities and has the goal of continuous learning and growth in the industry.",
+        "description": "Frontend Developer.",
         "image":"profile-pic.jpg",
         "github": "https://github.com/nadhifahns",
         "project": "https://github.com/nadhifahns",
         "bio": "A graduate of Diploma III in Computer Engineering who is enthusiastic with a strong desire to learn and ready to face new challenges in the industrial world. Has experience in project work using React Native and Figma. Detail-oriented and committed to contributing both in a team and as an individual.",
         "contactmessage":"Hello, here I am",
         "email": "nadhifahns@gmail.com",
-        "phone": "+62-897-6335-883",
+        "phone": "877-1234-5678",
         "address":{
-            "street":"Puri Cipageran Indah 1 Blok H3-79",
+            "street":"PCI 1",
             "city":"Cimahi",
             "state":"West Java",
-            "zip": "40511"
+            "zip": "12345"
         },
         "website": "https://github.com/nadhifahns",
         "resumedownload":"https://github.com/nadhifahns"
@@ -60,6 +60,82 @@
                 "name": "RESTful API",
                 "level": "60%"
             }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Canadian Wanderlust",
+                "category": "My travel blog for my post-university",
+                "image": "01.jpg",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              },
+              {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"01.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              }
         ]
     }
 }
