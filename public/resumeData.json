@@ -16,7 +16,34 @@
             "zip": "12345"
         },
         "website": "https://github.com/nadhifahns",
-        "resumedownload":"https://github.com/nadhifahns"
+        "resumedownload":"https://github.com/nadhifahns",
+        "social":[
+            {
+              "name": "facebook",
+              "url": "https://github.com/mutiarahmatun",
+              "className": "fa fa-facebook"
+            },
+            {
+              "name":"twitter",
+              "url":"http://twitter.com",
+              "className":"fa fa-twitter"
+            },
+            {
+              "name":"linkedin",
+              "url":"https://www.linkedin.com/in/mutia-rahmatun-husna/",
+              "className":"fa fa-linkedin"
+            },
+            {
+              "name":"instagram",
+              "url":"http://instagram.com/mutia.rahmatun",
+              "className":"fa fa-instagram"
+            },
+            {
+              "name":"github",
+              "url":"https://github.com/mutiarahmatun",
+              "className":"fa fa-github"
+            }
+        ]
     },
     "resume": {
         "education": [
